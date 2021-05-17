@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto%20Slab:400,300,100,700,100italic,300italic,400italic,700italic);
 /*
 Template Name: HR2 - Template
 Version: 1.0
@@ -11,7 +11,7 @@ Author URL: http://hostingred.com
 body {
   padding-top: 100px;
   background: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
   font-weight: 400;
   color: #64686d;
   line-height: 26px;
