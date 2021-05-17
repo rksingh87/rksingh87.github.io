@@ -7,3 +7,17 @@ Author URL: http://hostingred.com
 /*******************************************
 USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
 ********************************************/
+
+
+/*Home*/
+
+.home-text {
+    font-size: 20px;
+    margin-top: 60px;
+    line-height: 50px;
+    text-align: justify;
+}
+
+.home-icons{
+
+}

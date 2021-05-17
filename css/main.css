@@ -260,18 +260,18 @@ ul.nostyle {
                     }
 }
 
-#main-slider {
+#homepage {
     overflow: hidden;
 }
 
-    #main-slider .item {
+    #homepage .item {
         height: 558px;
         background-repeat: no-repeat;
         background-position: 50% 0;
         background-size: cover;
     }
 
-    #main-slider .slider-inner {
+    #homepage .slider-inner {
         position: absolute;
         top: 0;
         left: 0;
@@ -280,7 +280,7 @@ ul.nostyle {
         color: #fff;
     }
 
-        #main-slider .slider-inner h2 {
+        #homepage .slider-inner h2 {
             margin-top: 180px;
             font-size: 36px;
             line-height: 1;
@@ -288,16 +288,16 @@ ul.nostyle {
             color: #fff;
         }
 
-            #main-slider .slider-inner h2 > span {
+            #homepage .slider-inner h2 > span {
                 color: #BE1414;
             }
 
-        #main-slider .slider-inner .btn {
+        #homepage .slider-inner .btn {
             margin-top: 10px;
         }
 
-    #main-slider .owl-prev,
-    #main-slider .owl-next {
+    #homepage .owl-prev,
+    #homepage .owl-next {
         position: absolute;
         top: 50%;
         background-color: rgba(0, 0, 0, 0.2);
@@ -315,17 +315,17 @@ ul.nostyle {
         transition: background-color 400ms;
     }
 
-        #main-slider .owl-prev:hover,
-        #main-slider .owl-next:hover {
+        #homepage .owl-prev:hover,
+        #homepage .owl-next:hover {
             background-color: #BE1414;
         }
 
-    #main-slider .owl-prev {
+    #homepage .owl-prev {
         left: -35px;
         text-indent: 14px;
     }
 
-    #main-slider .owl-next {
+    #homepage .owl-next {
         right: -35px;
         text-indent: -14px;
     }
