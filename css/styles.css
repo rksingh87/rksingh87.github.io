@@ -21,3 +21,16 @@ USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
 .home-icons{
 
 }
+
+.skills-icon-header {
+    font-size:30px;
+}
+
+.skills-icon{
+    font-size: 48px;
+}
+
+.marginTop10 {
+    margin-top: 10px;
+    min-width: 110px;
+}

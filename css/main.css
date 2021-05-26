@@ -80,7 +80,7 @@ hr {
             left: 50%;
             margin-left: -70px;
             height: 1px;
-            background: #171C28;
+            background: #BE1414;
         }
 
         .section-header .section-title:after {
@@ -384,7 +384,7 @@ ul.nostyle {
 }
 
     #features .media.service-box:first-child {
-        margin-top: 80px;
+        /*margin-top: 80px;*/
     }
 
 #services {
@@ -908,9 +908,9 @@ ul.nostyle {
 
 #get-in-touch {
     padding: 100px 0 50px;
-    background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+    /*background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
     background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
-    background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+    background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);*/
     color: #fff;
 }
 
